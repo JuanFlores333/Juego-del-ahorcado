@@ -1,0 +1,8 @@
+C:\Users\Jarvis\Downloads\Juego_del_Ahorcado\bin\Debug\Juego_del_Ahorcado.exe.config
+C:\Users\Jarvis\Downloads\Juego_del_Ahorcado\bin\Debug\Juego_del_Ahorcado.exe
+C:\Users\Jarvis\Downloads\Juego_del_Ahorcado\bin\Debug\Juego_del_Ahorcado.pdb
+C:\Users\Jarvis\Downloads\Juego_del_Ahorcado\obj\Debug\Juego_del_Ahorcado.csproj.AssemblyReference.cache
+C:\Users\Jarvis\Downloads\Juego_del_Ahorcado\obj\Debug\Juego_del_Ahorcado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jarvis\Downloads\Juego_del_Ahorcado\obj\Debug\Juego_del_Ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\Jarvis\Downloads\Juego_del_Ahorcado\obj\Debug\Juego_del_Ahorcado.exe
+C:\Users\Jarvis\Downloads\Juego_del_Ahorcado\obj\Debug\Juego_del_Ahorcado.pdb
